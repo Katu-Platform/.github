@@ -60,7 +60,6 @@ katu-backend/            # Go + Gin
 katu-worker-ai/          # Python + python-socketio
 katu-frontend-mobile/    # Flutter
 katu-frontend-website/   # React (Vite)
-katu-docs/               # Dokumen lintas tim (API contract, panduan, dsb.)
 ```
 
 ### Menjalankan Seluruh Sistem
